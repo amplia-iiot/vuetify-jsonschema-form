@@ -1,0 +1,95 @@
+[
+ {
+  "name": "Chemacorp",
+  "regions": [
+   {
+    "provinces": [
+     {
+      "name": "Álava"
+     },
+     {
+      "name": "Guipuzcua"
+     },
+     {
+      "name": "Huesca"
+     },
+     {
+      "name": "La Rioja"
+     },
+     {
+      "name": "Navarra"
+     },
+     {
+      "name": "Soria"
+     },
+     {
+      "name": "Teruel"
+     },
+     {
+      "name": "Vizcaya"
+     },
+     {
+      "name": "Zaragoza"
+     }
+    ],
+    "name": "Aragon"
+   },
+   {
+    "provinces": [
+     {
+      "name": "Islas Baleares"
+     }
+    ],
+    "name": "Balearics"
+   }
+  ]
+ },
+ {
+  "name": "Portugal",
+  "regions": [
+   {
+    "provinces": [
+     {
+      "name": "Braga"
+     },
+     {
+      "name": "Braganza"
+     },
+     {
+      "name": "Porto"
+     },
+     {
+      "name": "Viana do Castelo"
+     },
+     {
+      "name": "Vila Real"
+     }
+    ],
+    "name": "Norte"
+   },
+   {
+    "provinces": [
+     {
+      "name": "Aveiro"
+     },
+     {
+      "name": "Castelo Branco"
+     },
+     {
+      "name": "Coimbre"
+     },
+     {
+      "name": "Guarda"
+     },
+     {
+      "name": "Leiria"
+     },
+     {
+      "name": "Viseu"
+     }
+    ],
+    "name": "Centro"
+   }
+  ]
+ }
+]
